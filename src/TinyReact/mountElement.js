@@ -5,6 +5,7 @@ import mountComponent from './mountComponent'
 export default function mountElement(virtualDOM, container, oldDOM){
     // Component
     if(isFunction(virtualDOM)){
+        console.log('virtualDOM', virtualDOM)
         // console.log("组件")
         mountComponent(virtualDOM, container, oldDOM)
     } else {

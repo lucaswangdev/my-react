@@ -17,9 +17,9 @@
 
 更新 DOM 元素之 VirtualDOM 对比(节点类型相同的情况)
 
-新 DOM 元素之 VirtualDOM 对比(节点类型不相同的情况)
+更新 DOM 元素之 VirtualDOM 对比(节点类型不相同的情况)
 
-更新 DOM 元素之删除节点
+更新 DOM 元素之 删除节点
 
 setState 方法实现类组件更新
 
